@@ -5,4 +5,4 @@
 git commit --amend
 
 
-git commit 
+git commit --amend 
